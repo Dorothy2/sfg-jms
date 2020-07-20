@@ -1,4 +1,4 @@
-package guru.springframework;
+package guru.springframework.sfgjms;
 
 import org.apache.activemq.artemis.core.config.impl.ConfigurationImpl;
 import org.apache.activemq.artemis.core.server.ActiveMQServer;
